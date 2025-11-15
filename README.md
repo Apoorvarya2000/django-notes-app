@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Simple Notes App for TWS Community
+# Simple Notes App 
 This is a simple notes app built with React and Django.
 
 ## Requirements
@@ -10,7 +10,7 @@ This is a simple notes app built with React and Django.
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/LondheShubham153/django-notes-app.git
+https://github.com/Apoorvarya2000/django-notes-app.git
 ```
 
 2. Build the app
