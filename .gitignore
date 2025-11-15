@@ -1,0 +1,20 @@
+# Python / Django
+backend/__pycache__/
+backend/**/*.pyc
+backend/staticfiles/
+data/
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+
+# OS files
+.DS_Store
+
+# Env files
+.env
+*.pem
+
+# Docker
+*.log
+
